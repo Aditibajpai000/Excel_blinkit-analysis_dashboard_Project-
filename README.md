@@ -1,5 +1,4 @@
 # blinkit-analysis
-This is my first Git Repository.
-<br>
-Author - Aditi Bajpai(blinkit)
+Author - Aditi Bajpai
+
 
